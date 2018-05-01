@@ -1,0 +1,17 @@
+p{
+    color: purple;
+    background-color: peru;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+.yellow{
+    background: yellow;
+}
+.blue{
+    background: blue;
+    color: white;
+}
+img{
+    width: 50%;
+}
